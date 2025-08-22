@@ -14,8 +14,8 @@ Visualizing actual vs predicted stock prices
 ---------------------------------------------------------------------------
 🛠️ Tech Stack
 ---------------------------------------------------------------------------
-Python 3.x
-TensorFlow / Keras
-NumPy
-Pandas
-plotly
+Python 3.x,
+TensorFlow / Keras,
+NumPy,
+Pandas,
+Plotly,
